@@ -1,0 +1,10 @@
+.main__background {
+    width: 100%;
+    height: auto;
+    background-image: url('../images/maintenance.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: 40%;
+    padding-top: 10rem;
+}
